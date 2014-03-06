@@ -1,0 +1,1 @@
+[17-Jul-2012 01:48:57] PHP Fatal error:  Cannot use object of type stdClass as array in /home/mashumaf/public_html/ufin/lib/helper.php on line 40
